@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 import datetime
 now = datetime.datetime.now()
 now = now.strftime("%d_%m_%Y")
